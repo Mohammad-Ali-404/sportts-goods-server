@@ -21,9 +21,6 @@ This project i using for handle Error, good maintainable code and good structure
 - Express.js
 - Mongoose
 - Zod
-- Multer
-- Cloudenary
-- Multer
 
 # Installation Guideline
 
