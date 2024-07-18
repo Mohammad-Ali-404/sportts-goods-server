@@ -2,7 +2,7 @@
 
 # Introduction
 
-Sport Haven server to is server the frontend data. There are manage Product data Like: Create product, delete product, update product, delete product. Same like Order management.
+Sport Goods server to is server the frontend data. There are manage Product data Like: Create product, delete product, update product, delete product. Same like Order management.
 
 This project i using for handle Error, good maintainable code and good structure code.
 
